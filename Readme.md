@@ -1,11 +1,14 @@
 # PizzaDelivery API
 
-This project demonstrate a restful api build using pure NodeJS.
+This project demonstrates a restful api build using pure NodeJS.
 
 ## Prerequisites
 * Stripe api key
 * mailgun api key
 * mailgun domain name
+
+## Run Project
+* navigate to the main directory and run the command node index.js
 
 ## Project Functionality
 * User can create, read, update, delete user details.
