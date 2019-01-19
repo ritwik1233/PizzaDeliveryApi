@@ -2,6 +2,10 @@
 
 This project demonstrate a restful api build using pure NodeJS.
 
+## Prerequisites
+* Stripe api key
+* mailgun api key
+* mailgun domain name
 
 ## Project Functionality
 * User can create, read, update, delete user details.
